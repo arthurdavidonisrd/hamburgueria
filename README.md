@@ -1,8 +1,6 @@
 # <p align="center">Online food menu</p>
-<div display="flex">
     ![image](https://github.com/arthurdavidonisrd/hamburgueria/assets/145383664/9fbbab82-10f0-4f0d-93c6-9a5f7089f390)
     ![image](https://github.com/arthurdavidonisrd/hamburgueria/assets/145383664/cda65455-be37-4c5b-bdcf-c5d9aabbfc7b)
-</div>
 
 
 
