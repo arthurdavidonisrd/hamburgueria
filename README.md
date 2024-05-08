@@ -23,5 +23,9 @@
 
 
                 
-</div>
+<h2>🚀 Getting Started</h2>
 
+<h4>Prerequisites</h4>
+
+- Node(any version)
+- TailwindCSS
