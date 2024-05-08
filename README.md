@@ -33,7 +33,7 @@
 
 <h4>Install project</h4>
 
-git clone https://github.com/arthurdavidonisrd/hamburgueria
+git clone https://github.com/arthurdavidonisrd/hamburgueria.git
 <br>
 npm install
 
@@ -42,3 +42,7 @@ npm install
 -npm install -D tailwindcss
 <br>
 -npx tailwindcss init
+
+<h4>Initialize Tailwind</h4>
+
+-Type in your cmd in the project directory: npm run dev
