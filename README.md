@@ -2,7 +2,7 @@
 
 <p display="flex" align="center" >
     <img src="./assets/celular.png" width="300px">
-    <img src="./assets/desktop.png" width="750px">
+    <img src="./assets/desktop.png" width="700px">
 </p>
 
 
