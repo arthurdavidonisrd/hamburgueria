@@ -46,5 +46,5 @@ npm install
 
 -Type in your cmd in the project directory: npm run dev
 
-<h2 align="center">Project Purpose</h2>
+<h2>Project Purpose</h2>
 <p>Practice and apply web development fundamentals. Create a web system applicable to the real world, 100% responsive and interactive with the user.</p>
