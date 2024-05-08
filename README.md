@@ -28,14 +28,17 @@
 <h4>Prerequisites</h4>
 
 - Node(any version)
+<br>
 - TailwindCSS
 
 <h4>Install project</h4>
 
 git clone https://github.com/arthurdavidonisrd/hamburgueria
+<br>
 npm install
 
 <h4>Install TailwindCSS</h4>
 
 -npm install -D tailwindcss
+<br>
 -npx tailwindcss init
