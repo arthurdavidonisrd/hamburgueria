@@ -4,8 +4,9 @@
 </p>
 
 <p align="center" >
-    <img src="./assets/celular.png" width="300px">
     <img src="./assets/desktop.png" width="700px">
+    <img src="./assets/celular.png" width="300px">
+
 </p>
 
 
