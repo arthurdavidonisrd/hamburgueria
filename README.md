@@ -2,7 +2,7 @@
 
 <p display="flex">
     <img src="./assets/celular.png" width="300px">
-    <img src="./assets/desktop.pmg" width="300px">
+    <img src="./assets/desktop.png" width="300px">
 </p>
 
 
