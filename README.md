@@ -1,6 +1,7 @@
 <h1 align="center">Online food menu🍔</h1>
 <p align="center" font="bold">This application is a online food menu, where users can place their order and send it directly to the fast food WhatsApp
-.</p>
+. 100% responsive app for any devices.
+</p>
 
 <p align="center" >
     <img src="./assets/celular.png" width="300px">
