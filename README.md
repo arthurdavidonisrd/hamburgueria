@@ -1,4 +1,4 @@
-<h1>Online food menu</h1>
+<h1 align="center">Online food menu</h1>
 
 <p align="center" >
     <img src="./assets/celular.png" width="300px">
