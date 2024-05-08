@@ -3,7 +3,7 @@
 . 100% responsive app for any devices.
 </p>
 
-<p align="center" >
+<p align="center" display="flex">
     <img src="./assets/desktop.png" width="700px">
     <img src="./assets/celular.png" width="300px">
 
@@ -28,7 +28,6 @@
 <h4>Prerequisites</h4>
 
 - Node(any version)
-<br>
 - TailwindCSS
 
 <h4>Install project</h4>
