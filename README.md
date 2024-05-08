@@ -1,5 +1,5 @@
 <h1 align="center">Online food menu</h1>
-<p>This application is a online food menu, where users can place their order and send it directly to the fast food WhatsApp
+<p align="center" font="bold">This application is a online food menu, where users can place their order and send it directly to the fast food WhatsApp
 .</p>
 
 <p align="center" >
