@@ -1,8 +1,8 @@
 <h1>Online food menu</h1>
 
 <p align="center">
-    <img src="./assets/celular.png" width="180px">
-    <img src="./assets/desktop.png" width="200px">
+    <img src="./assets/celular.png" width="200px">
+    <img src="./assets/desktop.png" width="400px">
 </p>
 
 
