@@ -1,3 +1,3 @@
-# <h1>Online food menu</h1>
+# <h1 align="center">Online food menu</h1>
 
 # Technologies
