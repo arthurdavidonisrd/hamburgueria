@@ -29,3 +29,13 @@
 
 - Node(any version)
 - TailwindCSS
+
+<h4>Install project</h4>
+
+git clone https://github.com/arthurdavidonisrd/hamburgueria
+npm install
+
+<h4>Install TailwindCSS</h4>
+
+-npm install -D tailwindcss
+-npx tailwindcss init
