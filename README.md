@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="./assets/celular.png" width="180px">
-    <img src="./assets/desktop.png" width="480px" height="100%">
+    <img src="./assets/desktop.png" width="200px">
 </p>
 
 
